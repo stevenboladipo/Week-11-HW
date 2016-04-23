@@ -1,0 +1,23 @@
+{
+  "name": "Week-11-HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenboladipo/Week-11-HW.git"
+  },
+  "author": "Steven B. Oladipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenboladipo/Week-11-HW/issues"
+  },
+  "homepage": "https://github.com/stevenboladipo/Week-11-HW#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}
